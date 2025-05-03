@@ -3,7 +3,7 @@
 💻 Con experiencia aplicando tecnologías de vanguardia como AWS Lambda, SageMaker, CloudWatch y API Gateway para construir sistemas escalables y resilientes.<br/>
 ⚙️ Diseño flujos automatizados de alta complejidad que mejoran operaciones críticas como el monitoreo y mantenimiento de cajeros automáticos, utilizando inteligencia artificial generativa para diagnosticar y resolver fallos con rapidez.<br/>
 🌐 Mi página personal: [juancastillo.com.co](https://juancastillo.com.co)<br/>
-![](https://github-readme-stats.vercel.app/api?username=tu-usuario&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=juandavidcastillorinta&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Stack Tecnológico
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%2369A9FF.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
