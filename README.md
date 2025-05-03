@@ -14,7 +14,3 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-# 💻 Videos Destacados
-[![Introducción a AWS Lambda](https://ytcards.demolab.com/?id=5y_8PJaA23&title=Introducción+a+AWS+Lambda&lang=es&timestamp=1633324800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600 "Introducción a AWS Lambda")](https://youtu.be/5y_8PJaA23)
-[![Automatización con SageMaker](https://ytcards.demolab.com/?id=2LpjfBO4xtg&title=Automatización+con+SageMaker&lang=es&timestamp=1633328400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600 "Automatización con SageMaker")](https://youtu.be/2LpjfBO4xtg)
