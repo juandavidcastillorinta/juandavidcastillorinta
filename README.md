@@ -4,7 +4,7 @@
 ⚙️ Diseño flujos automatizados de alta complejidad que mejoran operaciones críticas como el monitoreo y mantenimiento de cajeros automáticos, utilizando inteligencia artificial generativa para diagnosticar y resolver fallos con rapidez.<br/>
 🌐 Mi página personal: [juancastillo.com.co](https://juancastillo.com.co)
 
-![](https://github-readme-stats.vercel.app/api?username=juandavidcastillorinta&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juandavidcastillorinta&show_icons=true&theme=radical))<br/>
 
 # 💻 Stack Tecnológico
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%2369A9FF.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
